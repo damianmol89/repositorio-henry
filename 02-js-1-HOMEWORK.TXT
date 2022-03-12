@@ -1,0 +1,9 @@
+Variables: es lo que utilizamos para poder almacenar un valor que utilizaremos mas tarde.
+Strings: es el texto que siempre deben ir entre comillas.
+Funciones (argumentos, return): la base de la programacion, 
+es lo que nos ayuda a realizar operaciones entre las variables.
+Los argumentos es el valor que le otorgamos a las variables en el contexto de una funcion.
+Return es comando que te devuelve los resultados de las funciones.
+Declaraciones if: nos permite comparar valores indicando si es verdadero o falso.
+Valores booleanos (true, false):son valores que solo tienen dos opciones al momento de ser comparado con
+otro valor.
